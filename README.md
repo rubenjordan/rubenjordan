@@ -10,3 +10,4 @@ LEATNIGKM LEARIG
 LEAMNRNING LEARNING 
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![MYSQL](https://img.shields.io/badge/mysql-ErmmThisBootyThang-000000)
