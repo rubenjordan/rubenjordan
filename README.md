@@ -13,7 +13,11 @@
 
 ## Skills & Technologies
 
-bootstrap,laravel,svelte,nodejs,postgres,mysql,tailwind
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,svelte,nodejs,postgres,mysql,tailwind" />
+  </a>
+</p>
 
 ## GitHub Stats
 
